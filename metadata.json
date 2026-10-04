@@ -1,0 +1,6 @@
+{
+  "name": "VoxStudio - AI Voice Over & Audio Production Suite",
+  "description": "Professional voice over production studio powered by Google Gemini TTS. Generate studio-grade speech, direct voice tone, polish scripts, mix effects, and record voiceovers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
